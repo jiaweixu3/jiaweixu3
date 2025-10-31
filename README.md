@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Jiawei Xu  
 
-🎓 **BSc in Data Science & Engineering** @ *Universidad Carlos III de Madrid*  
+I'm currently pursuing a **BSc in Data Science and Engineering** at **Universidad Carlos III de Madrid**. 
+
+Here are some of the projects I've worked on — combining **data science, AI, software development**, and **analytics** to turn data into insight and impact.
 
 ---
 
