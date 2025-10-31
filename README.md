@@ -30,7 +30,7 @@ Here are some of the projects I've worked on!
 - Managed the complete **game loop and state management**, including enemy spawning, stage progression, a 3-life system, and game over state.
 - Structured the project modularly with **OOP design**, making it scalable, maintainable, and easy to extend.
 
-#### [🔹 Asturias Tourism Dashboard (Excel)](https://github.com/jiaweixu3/Excel-Tourism-Asturias-Analysis)
+#### [🔹 Asturias Tourism Dashboard (Excel)](https://github.com/jiaweixu3/Excel-Asturias-Tourism-Analysis)
 - Built a **comprehensive interactive Excel dashboard** analyzing tourism trends in Asturias using **50,000+ data points** from multiple datasets (hotels, restaurants, traveler spending, motivations, hotel prices, traveler types, and valuations).  
 - Developed **complex Pivot Tables** and **dynamic charts** to summarize data and highlight actionable insights.  
 - Implemented **VBA macros and interactive buttons** for smooth dashboard navigation, filtering, and interactivity.  
