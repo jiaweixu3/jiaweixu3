@@ -1,104 +1,75 @@
-# 😁 Welcome to Jiawei's GitHub!
+# 👋 Hi, I'm Jiawei Xu  
 
-I'm currently pursuing a **BSc in Data Science and Engineering** at **Universidad Carlos III de Madrid**.  
-Here are some of the projects I've worked on — combining **data science, AI, software development**, and **analytics** to turn data into insight and impact.
-
----
-
-### ⚙️ Projects
-
-#### [🔹 Exploratory Data Analysis of Titanic Survival](https://github.com/jiaweixu3/Exploratory-Data-Analysis-TITANIC)
-- Conducted a full **Exploratory Data Analysis (EDA)** on 668 passengers using **R**.  
-- **Quantified the impact** of key variables on survival rates and uncovered **non-obvious insights** about social and travel factors.  
-- Engineered **new features** to enhance dataset interpretability.  
-- Created **7+ custom visualizations** with **ggplot2** (boxplots, stacked bars, jitter plots) to clearly communicate findings.  
-- Authored a detailed analytical report summarizing **methods, results, and visuals**.  
+🎓 **BSc in Data Science & Engineering** @ *Universidad Carlos III de Madrid*  
+📊 Seeking internship opportunities in **Data Science, Machine Learning**.
 
 ---
 
-#### [🔹 Titanic Survival Prediction (Machine Learning)](https://github.com/jiaweixu3/Machine-Learning-Prediction-TITANIC)
-- Developed, tuned, and evaluated **Decision Tree** and **Random Forest** models to predict passenger survival.  
-- Applied **Grid Search** and **Cross-Validation** to optimize hyperparameters and model reliability.  
-- **Identified the most influential features** and explained model decisions with visual interpretability tools.  
-- Achieved strong predictive accuracy and built **reusable, production-ready R scripts**.  
-- Documented the entire workflow with clear results and model insights.  
+### 🚀 About Me
+- 🧠 Skilled in **Python**, **R**, **SQL**, **Excel (Pivot Tables, VBA)**, and **Data Visualization**.  
+- 🤖 Experienced with **Machine Learning**, **AI Agents**, **Statistical Modeling**, and **Data Pipelines**.  
+- 📈 Strong analytical mindset with a focus on **data cleaning, feature engineering, and storytelling**.  
+- 💬 Multilingual: English · Spanish · Chinese — global mindset and cross-cultural communication.  
 
 ---
 
-#### [🔹 Mario Bros. (1983) – Pyxel Clone](https://github.com/jiaweixu3/Mario-Bros-Pyxel-Clone)
-- Developed a **from-scratch clone** of the 1983 arcade classic *Mario Bros.* using **Python** and **Pyxel**.  
-- Engineered a **custom 2D physics engine** for realistic gravity, acceleration, and jump mechanics.  
-- Designed **AI-driven enemies** (Turtle, Crab, Fly) using **Object-Oriented Programming (OOP)**.  
-- Built a **pixel-perfect collision detection system** for all game interactions.  
-- Managed the **entire game loop and state management**, including stages, lives, and game over logic.  
-- Structured the project modularly for **scalability and maintainability**.  
+### 🌟 Highlight Projects
+
+#### 🧠 [Machine Learning Agent for Snake](https://github.com/jiaweixu3/AI-Machine-Learning-Agent-Snake)
+> Developed an **autonomous AI agent** (Python + Weka) achieving **90% accuracy** using **feature engineering** and **model comparison** (Random Forest, SVM, Neural Networks).  
+**Skills:** Machine Learning · Model Evaluation · Python–Java Integration · AI Agents  
+
+#### 📊 [Asturias Tourism Dashboard – Excel Analytics](https://github.com/jiaweixu3/Excel-Asturias-Tourism-Analysis)
+> Designed an **interactive Excel dashboard** for 50K+ records using **Pivot Tables**, **VBA**, and **advanced formulas**.  
+**Skills:** Business Analytics · Excel Automation · Data Storytelling · Visualization Design  
+
+#### 🔍 [Titanic Survival – EDA + ML](https://github.com/jiaweixu3/Machine-Learning-Prediction-TITANIC)
+> Combined **exploratory analysis** and **predictive modeling** in R with **Decision Trees** and **Random Forests**.  
+**Skills:** EDA · Feature Engineering · Model Tuning · Data Visualization  
+
+#### 🌍 [Car Emissions Clustering (Unsupervised Learning)](https://github.com/jiaweixu3/Unsupervised-Learning-Car-Emissions)
+> Applied **PCA, K-Means, and Factor Analysis** on 10 years of vehicle emissions data to reveal environmental trends.  
+**Skills:** R · PCA · Clustering · Dimensionality Reduction · Data Cleaning  
+
+#### 🧮 [SQL & MongoDB Databases for Chess Platforms](https://github.com/jiaweixu3/SQL-Chess-Platform-Database)
+> Built **relational and NoSQL databases** with **PL/SQL triggers**, **MongoDB aggregations**, and **data analytics queries**.  
+**Skills:** SQL · PL/SQL · MongoDB · Database Modeling · Query Optimization  
 
 ---
 
-#### [🔹 Asturias Tourism Dashboard (Excel)](https://github.com/jiaweixu3/Excel-Asturias-Tourism-Analysis)
-- Built a **comprehensive, interactive Excel dashboard** analyzing **50,000+ tourism data points** from multiple sources.  
-- Developed **complex Pivot Tables** and **dynamic charts** to visualize trends and insights.  
-- Automated navigation and filters using **VBA macros and interactive buttons**.  
-- Applied **advanced Excel formulas** (`XLOOKUP()`, `COUNTIF()`, `SEARCH()`, `LARGE()`) for deep data analysis.  
-- Designed a **clean, business-oriented layout** with professional styling and conditional formatting.  
-- Showcases **data storytelling, visualization, and KPI design** — applicable to business analytics roles.  
+### 🧰 Tech Stack
+**Languages:** Python · R · SQL · VBA  
+**Tools:** Excel · Power BI · Weka · MongoDB · Oracle SQL  
+**Libraries:** pandas · scikit-learn · ggplot2 · dplyr · numpy
+**Techniques:** Machine Learning · Data Visualization · Statistical Modeling · Feature Engineering · Dashboard Design  
 
 ---
 
-#### [🔹 SQL Project: Online Chess Platform Database](https://github.com/jiaweixu3/SQL-Chess-Platform-Database)
-- Designed and implemented a **relational database system** for an online chess platform using **Oracle SQL** and **PL/SQL**.  
-- Modeled **20+ entities** (Players, Tournaments, Games, Clubs, Leagues) ensuring **referential integrity** and **domain constraints**.  
-- Automated **business logic** with triggers (rating updates, purchase validation, club membership checks).  
-- Wrote **analytical SQL queries** for leaderboards, tournament stats, and performance trends.  
-- Inserted and validated **150+ records**, testing triggers and data consistency.  
-- **Key Skills:** SQL · PL/SQL · Database Modeling · Referential Integrity · Trigger Automation · Analytical Query Design  
+### 💼 Other Projects
+
+#### 🧬 [Exploratory Data Analysis – Titanic Dataset](https://github.com/jiaweixu3/Exploratory-Data-Analysis-TITANIC)
+> Conducted **EDA in R** uncovering social and travel factors influencing survival. Created **7+ custom visualizations** and engineered new features for deeper insights.  
+**Skills:** R · ggplot2 · Data Wrangling · Feature Engineering  
+
+#### 🧠 [Supervised Learning – Billionaire Age Classification](https://github.com/jiaweixu3/Supervised-Learning-Billionaire-Age-Classification)
+> Predicted billionaire age groups using **Random Forest**, **XGBoost**, and **SHAP** for interpretability. Identified top predictors (wealth, rank, education, geography).  
+**Skills:** Supervised Learning · SHAP · Model Interpretation · Feature Engineering  
+
+#### ♟️ [SQL Project – Online Chess Platform](https://github.com/jiaweixu3/SQL-Chess-Platform-Database)
+> Designed a **relational database** with **20+ entities**, **referential integrity**, and **trigger-based automation**.  
+**Skills:** SQL · Database Design · PL/SQL · Data Integrity  
+
+#### 📦 [MongoDB Project – Chess & Sales Databases](https://github.com/jiaweixu3/MongoDB-Chess-and-Sales-Databases)
+> Created **NoSQL databases** for chess and sales analytics with **aggregation pipelines** and **MapReduce** for insights.  
+**Skills:** MongoDB · NoSQL Modeling · Aggregation Framework · Query Optimization  
+
+#### 🎮 [Mario Bros. (1983) Pyxel Clone](https://github.com/jiaweixu3/Mario-Bros-Pyxel-Clone)
+> Built a full **Python game** from scratch with **custom physics**, **OOP architecture**, and **AI-driven enemies**.  
+**Skills:** Python · OOP · Game Development · 2D Physics Engine  
 
 ---
 
-#### [🔹 MongoDB Project: Chess & Sales Databases](https://github.com/jiaweixu3/MongoDB-Chess-and-Sales-Databases)
-- Built two **NoSQL databases** using **MongoDB** — a **Chess Tournament System** and a **Sales Analytics Platform**.  
-- Designed optimized **document schemas** combining **embedding and referencing** for performance and scalability.  
-- Implemented **aggregation pipelines** and **MapReduce** for advanced data analytics.  
-- Created **complex queries** with `$regex`, `$and`, `$in`, and array updates for real-world scenarios.  
-- Demonstrated **data modeling, cleaning, and analytical computation** on structured and semi-structured data.  
-- **Key Skills:** MongoDB · Aggregation Framework · MapReduce · Query Optimization · NoSQL Modeling  
-
----
-
-#### [🔹 Unsupervised Learning: Car Fuel Emissions Analysis](https://github.com/jiaweixu3/Unsupervised-Learning-Car-Emissions)
-- Conducted an **unsupervised learning analysis** in **R** on over a decade of vehicle emissions data.  
-- Applied **PCA, Factor Analysis**, and **multiple clustering algorithms** (K-Means, PAM, GMM, Hierarchical) to reveal hidden vehicle patterns.  
-- Performed **data cleaning, imputation (MICE), and feature engineering** for model reliability.  
-- Discovered **environmental, engine efficiency, and modernization trends** among vehicle types.  
-- Delivered a **5-page analytical report** with visuals and interpretation of clusters.  
-- **Key Skills:** R · PCA · Clustering · Dimensionality Reduction · Data Preprocessing · Model Validation  
-
----
-
-#### [🔹 Supervised Learning: Billionaire Age Classification](https://github.com/jiaweixu3/Supervised-Learning-Billionaire-Age-Classification)
-- Built a **classification pipeline** in **R** predicting billionaire age groups using **multiple supervised models**.  
-- Applied **Random Forest, XGBoost, and SHAP** for feature importance and model interpretability.  
-- Engineered and cleaned socioeconomic data with **multivariate imputation (MICE)** and **feature selection**.  
-- Visualized relationships between wealth, rank, and education through **data-driven storytelling**.  
-- Extracted the most influential predictors: **rank, wealth, education, and geography**.  
-- **Key Skills:** Supervised Learning · Model Interpretation · SHAP Analysis · Feature Engineering · Ensemble Methods  
-
----
-
-#### [🔹 Machine Learning Agent for Snake (Weka + Python)](https://github.com/jiaweixu3/AI-Machine-Learning-Agent-Snake)
-- Developed an **autonomous Snake-playing AI agent** using **Weka–Python integration**, achieving more than **90% accuracy**.  
-- Engineered **spatial and directional features** (`angle_food`, `wall_risk`, `closer`) to model intelligent movement.  
-- Compared **10+ machine learning models** (kNN, Random Forest, SVM, Neural Networks) for performance and generalization.  
-- Integrated **Weka-trained models** within Python for **real-time AI decision-making**.  
-- Iteratively refined the dataset and models to evolve from noisy behavior to a **stable, goal-oriented agent**.  
-- **Key Skills:** Machine Learning · Python–Java Integration · Feature Engineering · Model Deployment · AI Agents  
-
----
-
-### 🌱 About Me
-- 🎓 Data Science & Engineering student @ **UC3M**  
-- 💡 Passionate about **AI, machine learning, and intelligent systems**  
-- 🧠 Skilled in **Python, R, SQL, Machine Learning, Data Visualization, and Statistical Modeling**  
-- ⚙️ Experienced with **Excel (Pivot Tables, VBA)**, **MongoDB**, **Oracle SQL**, and **data pipelines**  
+### 📫 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/jiawei-xu3/)  
 
 ---
