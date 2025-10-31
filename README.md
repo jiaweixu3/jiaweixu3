@@ -2,7 +2,7 @@
 
 >*Aspiring Data Scientist passionate about turning data into actionable insights through machine learning, visualization, and analytics.*
 
-I'm pursuing a **BSc in Data Science and Engineering** at **Universidad Carlos III de Madrid**.  
+I am currently pursuing a **BSc in Data Science and Engineering** at **Universidad Carlos III de Madrid**.  
 My projects combine **data science, AI, software development**, and **business analytics** — turning data into value and measurable results.
 
 ---
