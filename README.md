@@ -22,7 +22,7 @@ Here are some of the projects I've worked on!
 - Produced clean and reusable **R scripts** capable of making predictions on new data.  
 - Documented the workflow and insights in a structured report, including visualizations and interpretations of model results.  
 
-#### [🔹 Mario Bros. (1983) – Pyxel Clone](https://github.com/jiaweixu3/Mario-Bros_Pyxel_Clone)
+#### [🔹 Mario Bros. (1983) – Pyxel Clone](https://github.com/jiaweixu3/Mario-Bros-Pyxel-Clone)
 - Developed a from-scratch clone of the 1983 arcade classic *Mario Bros.* using **Python** and the **Pyxel** library.
 - Engineered a **custom 2D physics engine** to manage player gravity, acceleration, and jump momentum realistically.
 - Implemented **advanced enemy AI** with unique behaviors for each enemy type (Turtle, Crab, Fly) using **Object-Oriented Programming (OOP)** principles.
