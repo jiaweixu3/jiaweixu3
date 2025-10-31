@@ -86,7 +86,7 @@ Here are some of the projects I've worked on — combining **data science, AI, s
 ---
 
 #### [🔹 Machine Learning Agent for Snake (Weka + Python)](https://github.com/jiaweixu3/AI-Machine-Learning-Agent-Snake)
-- Developed an **autonomous Snake-playing AI agent** using **Weka–Python integration**, achieving **high decision accuracy**.  
+- Developed an **autonomous Snake-playing AI agent** using **Weka–Python integration**, achieving more than **90% accuracy**.  
 - Engineered **spatial and directional features** (`angle_food`, `wall_risk`, `closer`) to model intelligent movement.  
 - Compared **10+ machine learning models** (kNN, Random Forest, SVM, Neural Networks) for performance and generalization.  
 - Integrated **Weka-trained models** within Python for **real-time AI decision-making**.  
@@ -100,6 +100,5 @@ Here are some of the projects I've worked on — combining **data science, AI, s
 - 💡 Passionate about **AI, machine learning, and intelligent systems**  
 - 🧠 Skilled in **Python, R, SQL, Machine Learning, Data Visualization, and Statistical Modeling**  
 - ⚙️ Experienced with **Excel (Pivot Tables, VBA)**, **MongoDB**, **Oracle SQL**, and **data pipelines**  
-- 🌍 Always open to **collaborating on applied data science projects or AI research**  
 
 ---
