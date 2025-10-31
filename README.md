@@ -1,8 +1,9 @@
-# 👋 Hi, I'm Jiawei Xu  
+# 😁 Welcome to Jiawei's GitHub!
 
-I'm currently pursuing a **BSc in Data Science and Engineering** at **Universidad Carlos III de Madrid**. 
+>*Aspiring Data Scientist passionate about turning data into actionable insights through machine learning, visualization, and analytics.*
 
-Here are some of the projects I've worked on — combining **data science, AI, software development**, and **analytics** to turn data into insight and impact.
+I'm pursuing a **BSc in Data Science and Engineering** at **Universidad Carlos III de Madrid**.  
+My projects combine **data science, AI, software development**, and **business analytics** — turning data into value and measurable results.
 
 ---
 
