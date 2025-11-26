@@ -39,10 +39,10 @@ My projects combine **data science, AI, software development**, and **business a
 
 ### 🧰 Tech Stack
 
-**Languages:** Python · R · SQL · VBA 
-**Libraries:** pandas · scikit-learn · ggplot2 · dplyr · numpy · tidyverse  
-**Tools:** Excel · PowerPoint · Word
-**Concepts:** **Machine Learning** · Statistical Modeling · Feature Engineering · Data Visualization · Dashboard Design · Model Interpretability  
+* **Languages:** Python · R · SQL · VBA 
+* **Libraries:** pandas · scikit-learn · ggplot2 · dplyr · numpy · tidyverse  
+* **Tools:** Excel · PowerPoint · Word
+* **Concepts:** Machine Learning · Statistical Modeling · Feature Engineering · Data Visualization · Dashboard Design   
 
 ---
 
